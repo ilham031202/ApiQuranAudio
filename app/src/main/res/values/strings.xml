@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Quran Ilham</string>
+    <string name="app_title">Al-Quran Api</string>
+    <string name="bismillah">بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ</string>
+    <string name="arti">Arti Ayat : Lorem Ipsum</string>
+    <string name="number">1</string>
+    <string name="button">Audio</string>
+</resources>
